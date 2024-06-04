@@ -1,4 +1,3 @@
-package JavaProgramming.Codsoft;
 import java.util.Scanner;
 
 class BankAccount{
